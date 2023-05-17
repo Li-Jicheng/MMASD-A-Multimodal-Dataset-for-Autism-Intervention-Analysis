@@ -1,4 +1,5 @@
 # MMASD-A-Multimodal-Dataset-for-Autism-Intervention-Analysis
+
 This is the repository for MMASD: A Multimodal Dataset for Autism Intervention Analysis.
 
 We presents a novel privacy-preserving open-source dataset, MMASD as a Multi Modal ASD benchmark dataset, collected from play therapy interventions of children with Autism. 
