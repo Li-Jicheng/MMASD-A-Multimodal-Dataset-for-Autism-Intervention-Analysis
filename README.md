@@ -14,6 +14,7 @@ Due to the file size limit, we have uploaded the data to google drive, which can
 
 We presented sample files for in each modality under "sample_data" folder. 
 
+Reference:
 
 OpenPose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
