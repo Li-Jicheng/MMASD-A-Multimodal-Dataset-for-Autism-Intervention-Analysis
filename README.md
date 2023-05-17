@@ -13,3 +13,7 @@ It consists of four privacy-preserving modalities of data:
 Due to the file size limit, we have uploaded the data to google drive, which can be easily accessed at https://tinyurl.com/mr3rd2dp.
 
 We presented sample files for in each modality under "sample_data" folder. 
+
+
+OpenPose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
+ROMP: https://github.com/Arthur151/ROMP
