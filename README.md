@@ -9,4 +9,4 @@ It consists of four privacy-preserving modalities of data:
  (3) 3D skeleton, 
  (4) clinician ASD evaluation scores of children, e.g., ADOS scores. 
 
-Due to the file size limit, we have uploaded the data to google drive, which can be easily accessed at \url{https://tinyurl.com/mr3rd2dp}.
+Due to the file size limit, we have uploaded the data to google drive, which can be easily accessed at https://tinyurl.com/mr3rd2dp.
