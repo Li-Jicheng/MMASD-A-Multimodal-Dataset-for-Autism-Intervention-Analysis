@@ -8,8 +8,9 @@ It consists of four privacy-preserving modalities of data:
 - (1) Optical flow: derived from raw RGB video, for each frame, we have **_x.jpg and **_y.jpg, representing the movement in x and y axis, respectively
 
 
+![sq_20583_D16_000_x](https://github.com/Li-Jicheng/MMASD-A-Multimodal-Dataset-for-Autism-Intervention-Analysis/assets/17228089/27b9df14-92e1-4eda-8ca7-e6c0bf1bd5f5)
 
-https://github.com/Li-Jicheng/MMASD-A-Multimodal-Dataset-for-Autism-Intervention-Analysis/assets/17228089/1e6f89a1-6218-455d-b971-e8164b5aa14c
+
 
 
 
