@@ -7,9 +7,6 @@ MMASD includes data from 32 children with ASD, and 1,315 data samples segmented 
 It consists of four privacy-preserving modalities of data: 
 - (1) Optical flow: derived from raw RGB video, for each frame, we have **_x.jpg and **_y.jpg, representing the movement in x and y axis, respectively
 
-
-![sq_20583_D16_000_x](https://github.com/Li-Jicheng/MMASD-A-Multimodal-Dataset-for-Autism-Intervention-Analysis/assets/17228089/27b9df14-92e1-4eda-8ca7-e6c0bf1bd5f5)
-
 <table>
   <tr>
     <td><img src="sample_data/sq_20583_D16_000_x.gif" width="400" height="300"></td>
@@ -17,6 +14,26 @@ It consists of four privacy-preserving modalities of data:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <table>
+        <caption>Title 1</caption>
+        <tr>
+          <td><img src="sample/gif1.gif" width="400" height="300"></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <caption>Title 2</caption>
+        <tr>
+          <td><img src="sample/gif2.gif" width="400" height="300"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 
 
