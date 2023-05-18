@@ -13,7 +13,7 @@ It consists of four privacy-preserving modalities of data:
       <table>
         <caption>video</caption>
         <tr>
-          <td><img src="sample_data/sq_20583_D16_000.gif" width="300" height="240"></td>
+          <td><img src="sample_data/sq_20583_D16_000.gif" width="200" height="150"></td>
         </tr>
       </table>
     </td>
@@ -21,7 +21,7 @@ It consists of four privacy-preserving modalities of data:
       <table>
         <caption>x-component</caption>
         <tr>
-          <td><img src="sample_data/sq_20583_D16_000_x.gif" width="300" height="240"></td>
+          <td><img src="sample_data/sq_20583_D16_000_x.gif" width="200" height="150"></td>
         </tr>
       </table>
     </td>
@@ -29,7 +29,7 @@ It consists of four privacy-preserving modalities of data:
       <table>
         <caption>y-component</caption>
         <tr>
-          <td><img src="sample_data/sq_20583_D16_000_y.gif" width="300" height="240"></td>
+          <td><img src="sample_data/sq_20583_D16_000_y.gif" width="200" height="150"></td>
         </tr>
       </table>
     </td>
