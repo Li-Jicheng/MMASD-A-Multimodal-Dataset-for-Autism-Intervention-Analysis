@@ -9,11 +9,7 @@ It consists of four privacy-preserving modalities of data:
 
 
 
-https://github.com/Li-Jicheng/MMASD-A-Multimodal-Dataset-for-Autism-Intervention-Analysis/assets/17228089/b540a476-4f1f-439b-8da7-8221dbbb9de5
-
-
-
-https://github.com/Li-Jicheng/MMASD-A-Multimodal-Dataset-for-Autism-Intervention-Analysis/assets/17228089/4b102f72-06d4-4d89-929d-d30fb9250570
+https://github.com/Li-Jicheng/MMASD-A-Multimodal-Dataset-for-Autism-Intervention-Analysis/assets/17228089/1e6f89a1-6218-455d-b971-e8164b5aa14c
 
 
 
