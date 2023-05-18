@@ -10,6 +10,12 @@ It consists of four privacy-preserving modalities of data:
 
 ![sq_20583_D16_000_x](https://github.com/Li-Jicheng/MMASD-A-Multimodal-Dataset-for-Autism-Intervention-Analysis/assets/17228089/27b9df14-92e1-4eda-8ca7-e6c0bf1bd5f5)
 
+<table>
+  <tr>
+    <td><img src="sample_data/sq_20583_D16_000_x.gif" width="400" height="300"></td>
+    <td><img src="sample_data/sq_20583_D16_000_y.gif" width="400" height="300"></td>
+  </tr>
+</table>
 
 
 
