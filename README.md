@@ -3,8 +3,10 @@
 This is the repository for MMASD: A Multimodal Dataset for Autism Intervention Analysis.
 
 We presents a novel privacy-preserving open-source dataset, MMASD as a Multi Modal ASD benchmark dataset, collected from play therapy interventions of children with Autism. 
-MMASD includes data from 32 children with ASD, and 1,315 data samples segmented from over 100 hours of intervention recordings. 
+MMASD includes data from 32 children with ASD, and 1,315 data samples segmented from over 100 hours of intervention recordings.
 It consists of four privacy-preserving modalities of data: 
+![4 different modalities](./sample_data/Teaser_3.jpg)
+
 - (1) Optical flow: derived from raw RGB video, for each frame, we have **_x.jpg and **_y.jpg, representing the horizontal and vertical components, respectively
 
 <table>
