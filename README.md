@@ -92,7 +92,6 @@ It covers 11 different activities in 3 themes, and consists of four privacy-pres
 
 Due to the file size limit, we have uploaded the data to google drive, which can be easily accessed at https://tinyurl.com/mr3rd2dp.
 
-We presented sample files for in each modality under "sample_data" folder. 
 
 # Reference:
 
