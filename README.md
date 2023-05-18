@@ -7,8 +7,6 @@ MMASD includes data from 32 children with ASD, and 1,315 data samples segmented 
 It consists of four privacy-preserving modalities of data: 
 - (1) Optical flow: derived from raw RGB video, for each frame, we have **_x.jpg and **_y.jpg, representing the movement in x and y axis, respectively
 
-<video src='https://www.youtube.com/watch?v=jp4xdxcc7WU' width=180/>
-
 - (2) 2D skeleton: generated via OpenPose, 25 body keypoints. For detailed keypoints information, please refer to https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/md_doc_02_output.html#pose-output-format-body_25.
 - (3) 3D skeleton: generated via Regression of Multiple 3D People (ROMP), 71 body keypoints. The 71 joints are 24 SMPL joints + 30 extra joints + 17 h36m joints. For details please refer to https://github.com/Arthur151/ROMP/blob/master/simple_romp/README.md.
 - (4) Clinician ASD evaluation scores of children, including demographic information (age, gender, etc.) and autism related evaluation scores such as ADOS-2.
@@ -22,3 +20,6 @@ We presented sample files for in each modality under "sample_data" folder.
 OpenPose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 ROMP: https://github.com/Arthur151/ROMP
+
+<video src='https://www.youtube.com/watch?v=jp4xdxcc7WU' width=180/>
+
