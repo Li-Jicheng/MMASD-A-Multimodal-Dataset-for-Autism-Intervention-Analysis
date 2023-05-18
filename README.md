@@ -20,7 +20,7 @@ It consists of four privacy-preserving modalities of data:
       <table>
         <caption>Title 1</caption>
         <tr>
-          <td><img src="sample/gif1.gif" width="400" height="300"></td>
+          <td><img src="sample_data/sq_20583_D16_000_x.gif" width="400" height="300"></td>
         </tr>
       </table>
     </td>
@@ -28,7 +28,7 @@ It consists of four privacy-preserving modalities of data:
       <table>
         <caption>Title 2</caption>
         <tr>
-          <td><img src="sample/gif2.gif" width="400" height="300"></td>
+          <td><img src="sample_data/sq_20583_D16_000_y.gif" width="400" height="300"></td>
         </tr>
       </table>
     </td>
