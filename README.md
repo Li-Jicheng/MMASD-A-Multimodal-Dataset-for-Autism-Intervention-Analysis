@@ -11,7 +11,7 @@ It consists of four privacy-preserving modalities of data:
   <tr>
     <td>
       <table>
-        <caption>x-axis</caption>
+        <caption>sq_20583_D16_000_x</caption>
         <tr>
           <td><img src="sample_data/sq_20583_D16_000_x.gif" width="450" height="300"></td>
         </tr>
@@ -19,7 +19,7 @@ It consists of four privacy-preserving modalities of data:
     </td>
     <td>
       <table>
-        <caption>y-axis</caption>
+        <caption>sq_20583_D16_000_y</caption>
         <tr>
           <td><img src="sample_data/sq_20583_D16_000_y.gif" width="450" height="300"></td>
         </tr>
