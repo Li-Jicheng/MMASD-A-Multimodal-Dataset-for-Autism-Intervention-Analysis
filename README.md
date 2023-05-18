@@ -9,19 +9,27 @@ It consists of four privacy-preserving modalities of data:
 
 <table>
   <tr>
-    <td>
+     <td>
       <table>
-        <caption>x component</caption>
+        <caption>video</caption>
         <tr>
-          <td><img src="sample_data/sq_20583_D16_000_x.gif" width="360" height="240"></td>
+          <td><img src="sample_data/sq_20583_D16_000.gif" width="300" height="240"></td>
         </tr>
       </table>
     </td>
     <td>
       <table>
-        <caption>y component</caption>
+        <caption>x-component</caption>
         <tr>
-          <td><img src="sample_data/sq_20583_D16_000_y.gif" width="360" height="240"></td>
+          <td><img src="sample_data/sq_20583_D16_000_x.gif" width="300" height="240"></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <caption>y-component</caption>
+        <tr>
+          <td><img src="sample_data/sq_20583_D16_000_y.gif" width="300" height="240"></td>
         </tr>
       </table>
     </td>
