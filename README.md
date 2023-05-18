@@ -62,6 +62,28 @@ It consists of four privacy-preserving modalities of data:
 </table>
 
 - (3) 3D skeleton: generated via Regression of Multiple 3D People (ROMP), 71 body keypoints. The 71 joints are 24 SMPL joints + 30 extra joints + 17 h36m joints. For details please refer to https://github.com/Arthur151/ROMP/blob/master/simple_romp/README.md.
+
+<table>
+  <tr>
+    <td>
+      <table>
+        <caption>video</caption>
+        <tr>
+          <td><img src="sample_data/sq_20583_D16_000.gif" width="360" height="240"></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <caption>2D skeleton</caption>
+        <tr>
+          <td><img src="sample_data/sq_20583_D16_000_3d.gif" width="360" height="240"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
 - (4) Clinician ASD evaluation scores of children, including demographic information (age, gender, etc.) and autism related evaluation scores such as ADOS-2.
 
 Due to the file size limit, we have uploaded the data to google drive, which can be easily accessed at https://tinyurl.com/mr3rd2dp.
