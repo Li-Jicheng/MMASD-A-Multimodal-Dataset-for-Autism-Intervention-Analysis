@@ -75,7 +75,7 @@ It consists of four privacy-preserving modalities of data:
     </td>
     <td>
       <table>
-        <caption>2D skeleton</caption>
+        <caption>3D skeleton</caption>
         <tr>
           <td><img src="sample_data/sq_20583_D16_000_3d.gif" width="360" height="240"></td>
         </tr>
