@@ -3,6 +3,32 @@
 This is the repository for MMASD: A Multimodal Dataset for Autism Intervention Analysis.
 ![selected scenes](./sample_data/scene.jpg)
 
+# My Gif Collection
+
+## Row 1
+Caption for Row 1
+
+![Gif 1](sample_data/sq_20583_D16_000.gif) Caption for Gif 1
+![Gif 2](sample_data/sq_20583_D16_000.gif) Caption for Gif 2
+![Gif 3](sample_data/sq_20583_D16_000.gif) Caption for Gif 3
+![Gif 4](sample_data/sq_20583_D16_000.gif) Caption for Gif 4
+
+## Row 2
+Caption for Row 2
+
+![Gif 5](sample_data/sq_20583_D16_000.gif) Caption for Gif 5
+![Gif 6](sample_data/sq_20583_D16_000.gif) Caption for Gif 6
+![Gif 7](sample_data/sq_20583_D16_000.gif) Caption for Gif 7
+![Gif 8](sample_data/sq_20583_D16_000.gif) Caption for Gif 8
+
+## Row 3
+Caption for Row 3
+
+![Gif 9](sample_data/sq_20583_D16_000.gif) Caption for Gif 9
+![Gif 10](sample_data/sq_20583_D16_000.gif) Caption for Gif 10
+![Gif 11](sample_data/sq_20583_D16_000.gif) Caption for Gif 11
+
+
 
 We presents a novel privacy-preserving open-source dataset, MMASD as a Multi Modal ASD benchmark dataset, collected from play therapy interventions of children with Autism. 
 MMASD includes data from 32 children with ASD, and 1,315 data samples segmented from over 100 hours of intervention recordings.
