@@ -6,17 +6,17 @@ This is the repository for MMASD: A Multimodal Dataset for Autism Intervention A
 ### Row 1
 Caption for row 1
 
-<img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 1" width="200" height="200"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 2" width="200" height="200"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 3" width="200" height="200"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 4" width="200" height="200">
+<img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 1" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 2" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 3" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 4" width="220" height="150">
 
 ### Row 2
 Caption for row 2
 
-<img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 5" width="200" height="200"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 6" width="200" height="200"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 7" width="200" height="200"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 8" width="200" height="200">
+<img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 5" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 6" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 7" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 8" width="220" height="150">
 
 ### Row 3
 Caption for row 3
 
-<img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 9" width="200" height="200"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 10" width="200" height="200"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 11" width="200" height="200">
+<img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 9" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 10" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 11" width="220" height="150">
 
 
 We presents a novel privacy-preserving open-source dataset, MMASD as a Multi Modal ASD benchmark dataset, collected from play therapy interventions of children with Autism. 
