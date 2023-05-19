@@ -1,6 +1,6 @@
 # MMASD-A-Multimodal-Dataset-for-Autism-Intervention-Analysis
 
-This is the repository for MMASD: A Multimodal Dataset for Autism Intervention Analysis.
+This is the repository for MMASD: A Multimodal Dataset for Autism Intervention Analysis. Dataset can be accessed at https://tinyurl.com/mr3rd2dp.
 
 #### Theme 1 -- Robotic-assisted therapy: Arm Swing, Body Swing, Chest Expansion, Squat
 <img src="sample_data/as_40533_D8_001_i.gif" alt="Alt Text 1" width="200" height="150"> <img src="sample_data/bs_20594_D1_001_y.gif" alt="Alt Text 2" width="200" height="150"> <img src="sample_data/ce_40753_D16_000_i.gif" alt="Alt Text 3" width="200" height="150"> <img src="sample_data/sq_40023_D8_001_i.gif" alt="Alt Text 4" width="200" height="150">
