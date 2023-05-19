@@ -4,13 +4,9 @@ This is the repository for MMASD: A Multimodal Dataset for Autism Intervention A
 ![selected scenes](./sample_data/scene.jpg)
 
 ### Row 1
-Caption for row 1
-
 <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 1" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 2" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 3" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 4" width="220" height="150">
 
 ### Row 2
-Caption for row 2
-
 <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 5" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 6" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 7" width="220" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 8" width="220" height="150">
 
 ### Row 3
