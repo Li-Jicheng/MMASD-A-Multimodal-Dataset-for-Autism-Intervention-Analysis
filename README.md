@@ -3,7 +3,7 @@
 This is the repository for MMASD: A Multimodal Dataset for Autism Intervention Analysis.
 
 ### Theme 1 -- Robotic-assisted therapy: Arm Swing, Body Swing, Chest Expansion, Squat
-<img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 1" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 2" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 3" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 4" width="200" height="150">
+<img src="sample_data/as_40533_D8_001_i.gif" alt="Alt Text 1" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 2" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 3" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 4" width="200" height="150">
 
 ### Theme 2 -- Rhythm: Drumming, Maracas Forward Shaking, Maracas Shaking, Sing and Clap
 <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 5" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 6" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 7" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 8" width="200" height="150">
