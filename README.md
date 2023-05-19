@@ -6,8 +6,6 @@ This is the repository for MMASD: A Multimodal Dataset for Autism Intervention A
 ### Row 1
 Caption for row 1
 
-| | | | |
-| --- | --- | --- | --- |
 | ![Alt Text 1](sample_data/sq_20583_D16_000.gif "Caption for gif 1")<br>Caption for gif 1 | ![Alt Text 2](sample_data/sq_20583_D16_000.gif "Caption for gif 2")<br>Caption for gif 2 | ![Alt Text 3](sample_data/sq_20583_D16_000.gif "Caption for gif 3")<br>Caption for gif 3 | ![Alt Text 4](sample_data/sq_20583_D16_000.gif "Caption for gif 4")<br>Caption for gif 4 |
 
 ### Row 2
