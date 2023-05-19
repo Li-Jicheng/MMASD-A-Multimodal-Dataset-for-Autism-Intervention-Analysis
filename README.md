@@ -2,13 +2,13 @@
 
 This is the repository for MMASD: A Multimodal Dataset for Autism Intervention Analysis.
 
-### Theme 1 Robotic-assisted therapy: Arm Swing, Body Swing, Chest Expansion, Squat
+### Theme 1 -- Robotic-assisted therapy: Arm Swing, Body Swing, Chest Expansion, Squat
 <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 1" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 2" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 3" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 4" width="200" height="150">
 
-### Theme 2 Rhythm: Drumming, Maracas Forward Shaking, Maracas Shaking, Sing and Clap
+### Theme 2 -- Rhythm: Drumming, Maracas Forward Shaking, Maracas Shaking, Sing and Clap
 <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 5" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 6" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 7" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 8" width="200" height="150">
 
-### Theme 3 Yoga: Frog Pose, Tree Pose, Twist Pose
+### Theme 3 -- Yoga: Frog Pose, Tree Pose, Twist Pose
 <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 9" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 10" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 11" width="200" height="150">
 
 We presents a novel privacy-preserving open-source dataset, MMASD as a Multi Modal ASD benchmark dataset, collected from play therapy interventions of children with Autism. 
@@ -16,7 +16,7 @@ MMASD includes data from 32 children with ASD, and 1,315 data samples segmented 
 It covers 11 different activities in 3 themes, and consists of four privacy-preserving modalities of data: 
 ![4 different modalities](./sample_data/Teaser_3.jpg)
 
-- (1) Optical flow: derived from raw RGB video, for each frame, we have **_x.jpg and **_y.jpg, representing the horizontal and vertical components, respectively
+- (1) Optical flow: derived from raw RGB video, for each frame, we have **_x.jpg and **_y.jpg, representing the horizontal and vertical components, respectively. Note originally optical is saved as npy, but due to the size limit, we convert that to jpg format by mapping the optical flow to gray scale range
 
 <table>
   <tr>
