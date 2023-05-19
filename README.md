@@ -3,31 +3,20 @@
 This is the repository for MMASD: A Multimodal Dataset for Autism Intervention Analysis.
 ![selected scenes](./sample_data/scene.jpg)
 
-# My Gif Collection
+### Row 1
+Caption for row 1
 
-## Row 1
-Caption for Row 1
+![Alt Text 1](sample_data/sq_20583_D16_000.gif "Caption for gif 1") ![Alt Text 2](sample_data/sq_20583_D16_000.gif "Caption for gif 2") ![Alt Text 3](sample_data/sq_20583_D16_000.gif "Caption for gif 3") ![Alt Text 4](sample_data/sq_20583_D16_000.gif "Caption for gif 4")
 
-![Gif 1](sample_data/sq_20583_D16_000.gif) Caption for Gif 1
-![Gif 2](sample_data/sq_20583_D16_000.gif) Caption for Gif 2
-![Gif 3](sample_data/sq_20583_D16_000.gif) Caption for Gif 3
-![Gif 4](sample_data/sq_20583_D16_000.gif) Caption for Gif 4
+### Row 2
+Caption for row 2
 
-## Row 2
-Caption for Row 2
+![Alt Text 5](sample_data/sq_20583_D16_000.gif "Caption for gif 5") ![Alt Text 6](sample_data/sq_20583_D16_000.gif "Caption for gif 6") ![Alt Text 7](sample_data/sq_20583_D16_000.gif "Caption for gif 7") ![Alt Text 8](sample_data/sq_20583_D16_000.gif "Caption for gif 8")
 
-![Gif 5](sample_data/sq_20583_D16_000.gif) Caption for Gif 5
-![Gif 6](sample_data/sq_20583_D16_000.gif) Caption for Gif 6
-![Gif 7](sample_data/sq_20583_D16_000.gif) Caption for Gif 7
-![Gif 8](sample_data/sq_20583_D16_000.gif) Caption for Gif 8
+### Row 3
+Caption for row 3
 
-## Row 3
-Caption for Row 3
-
-![Gif 9](sample_data/sq_20583_D16_000.gif) Caption for Gif 9
-![Gif 10](sample_data/sq_20583_D16_000.gif) Caption for Gif 10
-![Gif 11](sample_data/sq_20583_D16_000.gif) Caption for Gif 11
-
+![Alt Text 9](sample_data/sq_20583_D16_000.gif "Caption for gif 9") ![Alt Text 10](sample_data/sq_20583_D16_000.gif "Caption for gif 10") ![Alt Text 11](sample_data/sq_20583_D16_000.gif "Caption for gif 11")
 
 
 We presents a novel privacy-preserving open-source dataset, MMASD as a Multi Modal ASD benchmark dataset, collected from play therapy interventions of children with Autism. 
