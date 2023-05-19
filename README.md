@@ -12,7 +12,6 @@ Caption for row 1
 Caption for row 2
 
 | | | | |
-| --- | --- | --- | --- |
 | ![Alt Text 5](sample_data/sq_20583_D16_000.gif "Caption for gif 5")<br>Caption for gif 5 | ![Alt Text 6](sample_data/sq_20583_D16_000.gif "Caption for gif 6")<br>Caption for gif 6 | ![Alt Text 7](sample_data/sq_20583_D16_000.gif "Caption for gif 7")<br>Caption for gif 7 | ![Alt Text 8](sample_data/sq_20583_D16_000.gif "Caption for gif 8")<br>Caption for gif 8 |
 
 ### Row 3
