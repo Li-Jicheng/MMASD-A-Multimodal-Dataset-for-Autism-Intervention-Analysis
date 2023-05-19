@@ -9,7 +9,7 @@ This is the repository for MMASD: A Multimodal Dataset for Autism Intervention A
 <img src="sample_data/dr_40493_D16_023_n.gif" alt="Alt Text 5" width="200" height="150"> <img src="sample_data/mfs_40743_D1_001_y.gif" alt="Alt Text 6" width="200" height="150"> <img src="sample_data/ms_40143_D8_007_y.gif" alt="Alt Text 7" width="200" height="150"> <img src="sample_data/sac_40683_D1_000_y.gif" alt="Alt Text 8" width="200" height="150">
 
 ### Theme 3 -- Yoga: Frog Pose, Tree Pose, Twist Pose
-<img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 9" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 10" width="200" height="150"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 11" width="200" height="150">
+<img src="sample_data/fg_41093_D8_009_y.gif" alt="Alt Text 9" width="200" height="150"> <img src="sample_data/tr_41063_D8_011_y.gif" alt="Alt Text 10" width="200" height="150"> <img src="sample_data/tw_41113_D1_010_y.gif" alt="twist pose" width="200" height="150">
 
 We presents a novel privacy-preserving open-source dataset, MMASD as a Multi Modal ASD benchmark dataset, collected from play therapy interventions of children with Autism. 
 MMASD includes data from 32 children with ASD, and 1,315 data samples segmented from over 100 hours of intervention recordings.
