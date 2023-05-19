@@ -10,8 +10,6 @@ This is the repository for MMASD: A Multimodal Dataset for Autism Intervention A
 <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 5" width="240" height="180"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 6" width="240" height="180"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 7" width="240" height="180"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 8" width="240" height="180">
 
 ### Row 3
-Caption for row 3
-
 <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 9" width="240" height="180"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 10" width="240" height="180"> <img src="sample_data/sq_20583_D16_000.gif" alt="Alt Text 11" width="240" height="180">
 
 
