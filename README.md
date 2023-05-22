@@ -91,7 +91,7 @@ It covers 11 different activities in 3 themes, and consists of four privacy-pres
       <table>
         <caption>3D skeleton</caption>
         <tr>
-          <td><img src="sample_data/sq_20583_D16_000_3d.gif" width="360" height="240"></td>
+          <td><img src="sq_20583_D16_000_y_3Dpose.gif" width="360" height="240"></td>
         </tr>
       </table>
     </td>
