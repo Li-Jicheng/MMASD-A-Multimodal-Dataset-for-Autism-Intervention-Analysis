@@ -2,7 +2,7 @@
 
 This is the repository for MMASD: A Multimodal Dataset for Autism Intervention Analysis. Dataset can be accessed at https://tinyurl.com/mr3rd2dp.
 
-![selected scenes](./sample_data/scene.jpg)
+![selected scenes](./sample_data/Activities.jpg)
 
 <!-- #### Theme 1 -- Robotic-assisted therapy: Arm Swing, Body Swing, Chest Expansion, Squat
 <img src="sample_data/as_40533_D8_001_i.gif" alt="Alt Text 1" width="200" height="150"> <img src="sample_data/bs_20594_D1_001_y.gif" alt="Alt Text 2" width="200" height="150"> <img src="sample_data/ce_40753_D16_000_i.gif" alt="Alt Text 3" width="200" height="150"> <img src="sample_data/sq_40023_D8_001_i.gif" alt="Alt Text 4" width="200" height="150">
@@ -16,7 +16,7 @@ This is the repository for MMASD: A Multimodal Dataset for Autism Intervention A
 We presents a novel privacy-preserving open-source dataset, MMASD as a Multi Modal ASD benchmark dataset, collected from play therapy interventions of children with Autism. 
 MMASD includes data from 32 children with ASD, and 1,315 data samples segmented from over 100 hours of intervention recordings.
 It covers 11 different activities in 3 themes, and consists of four privacy-preserving modalities of data: 
-![4 different modalities](./sample_data/Teaser_3.jpg)
+![4 different modalities](./sample_data/Teaser.jpg)
 
 - (1) Optical flow: derived from raw RGB video, for each frame, we have **_x.jpg and **_y.jpg, representing the horizontal and vertical components, respectively. Note originally optical flow is saved as .npy files, but due to the size limit, we convert them to .jpg format by mapping the optical flow to gray scale range.
 
