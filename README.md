@@ -102,6 +102,11 @@ It covers 11 different activities in 3 themes, and consists of four privacy-pres
 
 Due to the file size limit, we have uploaded the data to google drive, which can be easily accessed at https://tinyurl.com/mr3rd2dp.
 
+# Citation:
+
+Jicheng Li, Vuthea Chheang, Pinar Kullu, Eli Brignac, Zhang Guo, Anjana Bhat, Kenneth E. Barner, and Roghayeh Leila Barmaki. MMASD: A Multimodal Dataset for Autism Intervention Analysis. In Proceedings of the 25th International Conference on Multimodal Interaction (ICMI '23), pp. 397–405, 2023. 
+
+DOI: https://doi.org/10.1145/3577190.3614117
 
 # Reference:
 
